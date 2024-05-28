@@ -130,11 +130,11 @@ All tools must extend the `BaseTool` class and implement the `run` method.
 
       1. **Adjust Tools**: Modify the tools in the `tools` directories of each agent as per your requirements.
       2. **Adjust Instructions**: Modify the agents in the `agents` directories as per your requirements.
-      3. **Run Agency**: Run the `agency.py` file, send your tasks and see how they perfrom.
+      3. **Run Agency**: Run the `agency.py` file, send your tasks and see how they perform.
       4. **Repeat**: Repeat the process until your agents are performing as expected.
 
     !!! note "Agent Development is an Iterative Process"
-        Right now, all agent development is iterative. You will need to constantly monitor and adust your system until it works as expected. In the future, this will become less of a problem, as larger and smarter models are released.
+        Right now, all agent development is iterative. You will need to constantly monitor and adjust your system until it works as expected. In the future, this will become less of a problem, as larger and smarter models are released.
 
 ## Next Steps
 
